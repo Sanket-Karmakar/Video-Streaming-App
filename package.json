@@ -1,0 +1,20 @@
+{
+  "name": "video-player",
+  "version": "1.0.0",
+  "description": "This is a video streaming app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Streaming",
+    "Entertainment",
+    "Project",
+    "FrontEnd",
+    "React",
+    "Backend",
+    "Node"
+  ],
+  "author": "Sanket-Karmakar",
+  "license": "ISC"
+}
